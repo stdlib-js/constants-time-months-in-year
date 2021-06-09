@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-time-months-in-year",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Number of months in a year.",
   "license": "Apache-2.0",
   "author": {
