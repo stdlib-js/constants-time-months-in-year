@@ -1,0 +1,33 @@
+{
+  "name": "@stdlib/constants-time-months-in-year",
+  "version": "0.0.0",
+  "description": "Number of months in a year.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-time-months-in-year.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtime",
+    "constant",
+    "const",
+    "months",
+    "mons",
+    "mon",
+    "year",
+    "yr",
+    "time",
+    "duration"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
