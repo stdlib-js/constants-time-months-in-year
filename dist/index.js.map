@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../tmp/index.js"],
+  "sourcesContent": ["/** @license Apache-2.0 */\n'use strict';\nvar MONTHS_IN_YEAR = 12|0;\nmodule.exports = MONTHS_IN_YEAR;\n"],
+  "mappings": "aAEA,IAAIA,EAAiB,GACrB,OAAO,QAAUA",
+  "names": ["MONTHS_IN_YEAR"]
+}
