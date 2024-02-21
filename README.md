@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@esm/index.mjs';
+import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@v0.3.1-esm/index.mjs';
 ```
 
 #### MONTHS_IN_YEAR
@@ -82,7 +82,7 @@ var bool = ( MONTHS_IN_YEAR === 12 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@esm/index.mjs';
-import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@esm/index.mjs';
+import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@v0.3.1-esm/index.mjs';
 
 var mons;
 var yrs;
