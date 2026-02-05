@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-time-months-in-year/tags). For example,
+
+```javascript
 import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@v0.3.3-deno/mod.js';
 ```
 
@@ -77,7 +82,7 @@ var bool = ( MONTHS_IN_YEAR === 12 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@deno/mod.js';
-import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@v0.3.3-deno/mod.js';
+import MONTHS_IN_YEAR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-months-in-year@deno/mod.js';
 
 var mons;
 var yrs;
